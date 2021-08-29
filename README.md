@@ -19,8 +19,9 @@ Our task is to help Seth and Tom submit election audit results to the election c
 ## Election-Audit Results:
 
 ### Code Printed to Terminal
+![print_to_terminal](https://user-images.githubusercontent.com/88041368/131260561-87f34f3f-0e7c-4e3a-a3ce-2229102580fb.png)
 
-Below are the following code blocks that we used to solve for the specific output details.
+### *Below are the following code blocks that we used to solve for the specific output details*
 
 ### Setting up the script
 ![Slide1](https://user-images.githubusercontent.com/88041368/131259182-e6add327-3271-42b0-8d44-cb72f494b268.PNG)
