@@ -19,9 +19,13 @@ Below are the following code blocks that I used to solve for the specific output
 
 
 ### How many votes were cast in this congressional election?
+![Slide2](https://user-images.githubusercontent.com/88041368/131259629-2952c058-7a9b-40aa-b80e-7c8ca3393428.PNG)
+![Slide3](https://user-images.githubusercontent.com/88041368/131259633-7f8133a5-198f-4d46-9ab7-240449a4806c.PNG)
 
 
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+
 Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
