@@ -17,6 +17,9 @@ Our task is to help Seth and Tom submit election audit results to the election c
 6.)	Identify the winning candidate
 
 ## Election-Audit Results:
+
+### Code Printed to Terminal
+
 Below are the following code blocks that we used to solve for the specific output details.
 
 ### Setting up the script
