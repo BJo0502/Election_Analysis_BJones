@@ -24,11 +24,15 @@ Below are the following code blocks that I used to solve for the specific output
 
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+![Presentation2](https://user-images.githubusercontent.com/88041368/131259741-61a2922d-bca1-4467-80e7-ec49b06c77fd.png)
+
+## Which county had the largest number of votes?
 
 
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+## Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+
+## Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ## Election-Audit Summary:
 Most of the python code that we have written can be borrowed and applied to other election results. By using variables for both script inputs and outputs vice hard coding, we ensure that our code is dynamic. We also used F-strings to format our output results, which further ensures that out output text file will look consistently the same. Despite our efforts there are still some steps we must make prior to applying our python code to other election results. We need to make sure that our file_to_load and file_to_save paths are modified based on where the raw results are stored and need to be saved on our computer. We also must make sure any new election results csv’s are formatted the same as the sample we used to write our code. For example, if there are additional columns of data in the csv or if they are ordered differently, we will need to adjust our row index in the script to reflect this. The script is currently written for examining election results at the county level; however, if there was ever a need compile all county results in each state, additional script would need to be added to our code. Steps to merge multiple csv’s of county election results would need to be written, followed by script that solved for the state totals, similarly to how we solved for the total county results.
